@@ -222,3 +222,11 @@ data/
 *.pkl
 *.zip
 .env
+
+# Environments
+venv/
+.env
+
+# IDE Configurations
+.continue/
+.vscode/
